@@ -1,0 +1,25 @@
+Normal Flow:
+javac JDBCConnectionTest.java
+
+->Code compiled and new class file created:
+JDBCConnectionTest.class
+
+-> Run the code:
+JVM runs the class file:
+JDBCConnectionTest.class => Output will be shown
+
+JDBC Flow:
+
+Command: 
+javac -cp ".;lib/mysql-connector-j-9.7.0.jar" JDBCConnectionTest.java
+
+javac - Java Compiler
+cp - class path
+
+. - Refers to Current Path
+
+; - Separator for differentiating the Class Path of current file with JAR file
+
+lib/mysql-connector-j-9.7.0.jar - JAR file path for the bridge b/w Java & MySQL
+
+JDBCConnectionTest.java - Current Java file

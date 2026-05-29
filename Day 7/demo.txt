@@ -1,0 +1,9 @@
+Name: Akshay Rao
+Company: ParvaM
+Role: Technical Trainer
+Program: Industry Readines Program
+Program Topic: Java + AI IRP
+College: City Engineering College
+Branch: CSE
+Section: B
+Semester: 4th Sem

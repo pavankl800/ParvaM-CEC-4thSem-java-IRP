@@ -1,0 +1,17 @@
+src/main/java/ - Backend code
+src/main/webapp - Frontend code
+
+com/example - package
+
+Main File - HelloServlet.java
+
+webapp/WEB-INF/web.xml - Gives info about Frontend
+
+pom.xml - Dependency manager
+
+5 stages or methods in servlet:
+init() - main method or to initiate the server
+doService() - Decide what to use doGet() or doPost()
+doGet() - To fetch some info from server
+doPost() - To post or save some info in the server
+destroy() - To remove or stop the server

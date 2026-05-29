@@ -1,0 +1,26 @@
+// Class Declaration
+public class StructureOfJava {
+    // main method 
+    public static void main(String[] args) {
+        // Printing Statement
+        System.out.println("Message can be added here!);
+    
+    }
+}
+
+Procedure to Run or Execute the program:
+javac filename.java
+java filename
+
+Ex: 
+javac HelloWorld.java
+java HelloWorld
+
+Java Code -> JRE -> JVM (Bytecode) (Class file will generate) -> Output
+
+public static void main:
+
+public - Access Specifier (It can be accessed from anywhere)
+static - It is the property of class itself (not an object) 
+void - Return Type(nothing will be returned) 
+main - Starting point of the program (main method)

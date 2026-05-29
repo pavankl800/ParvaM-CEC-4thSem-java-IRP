@@ -1,0 +1,14 @@
+Java is a Programming Language which supports OOPs concept and it is strongly typed language with WORA principle
+
+Platform Independent
+
+WORA - Write Once Run Anywhere
+
+JDK - Java Development Kit
+It will help us to build the application or program by providing the necassary libraries, packages, compiler and tools (JRE + JVM)
+
+JRE - Java Runtime Environment
+It will help us to Run the Programs (Compiler)
+
+JVM - Java Virtual Machine
+Converts Java Code to Bytecode (System/Low level code) (Translator)
